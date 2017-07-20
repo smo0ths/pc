@@ -6,6 +6,7 @@ RAM: Corsair 16GB LPX 2133Mhz DDR4
 PSU: EVGA 650 GQ
 MOBO: MSI Z170M MORTAR 
 SSD: OCZ Trion 150
+CD/DVD Drive: Lite-On iHAS124-14
 Bench Case: DIYPC Alpha-DB6
 Monitor: Benq XL2420TE 144hz
 Mouse: Razer DeathAdder Chroma (Xtrac Ripper XXL Mouse pad)
