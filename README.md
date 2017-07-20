@@ -1,7 +1,6 @@
 # pc
-
-CPU: Intel 6600k OC'd (212 EVO Cooler)
-GPU: PNY 1070 XLR8 OC'd
+CPU: Intel 6600k Overclocked (212 EVO Cooler)
+GPU: PNY 1070 XLR8 Overclocked
 RAM: Corsair 16GB LPX 2133Mhz DDR4
 PSU: EVGA 650 GQ
 MOBO: MSI Z170M MORTAR 
