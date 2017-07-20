@@ -8,7 +8,7 @@ MOBO: MSI Z170M MORTAR
 SSD: OCZ Trion 150
 Bench Case: DIYPC Alpha-DB6
 Monitor: Benq XL2420TE 144hz
-Mouse: Razer DeathAdder Chroma
+Mouse: Razer DeathAdder Chroma (Xtrac Ripper XXL Mouse pad)
 Keyboard: Razer Stealth 2014
 Headset: Grado Labs SR80e
 Sound: Focusrite Scarlett 2i2
