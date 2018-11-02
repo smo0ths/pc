@@ -1,16 +1,14 @@
 # pc
-CPU: Intel 6600k Overclocked (212 EVO Cooler)
+CPU: Intel 6600k (212 EVO Cooler) Overclocked 
 GPU: PNY 1070 XLR8 Overclocked
-RAM: Corsair 16GB LPX 2133Mhz DDR4
+RAM: Corsair 16GB LPX 2133Mhz DDR4 Overclocked 
 PSU: EVGA 650 GQ
 MOBO: MSI Z170M MORTAR 
 SSD: OCZ Trion 150
 CD/DVD Drive: Lite-On iHAS124-14
 Bench Case: DIYPC Alpha-DB6
 Monitor: Benq XL2420TE 144hz
-Mouse: Razer DeathAdder Chroma 
-Mouse feet: PureTrak PerfectGlide
-Mouse pad: Xtrfy XGP1-L4
+Mouse/Feet/Pad: (Razor DeathAdder Chroma) (PureTrak PerfectGlide) (Xtrfy XGP1-L4)
 Keyboard: Razer Stealth 2014
 Headset: Grado Labs SR80e
 Sound: Focusrite Scarlett 2i2
