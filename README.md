@@ -1,9 +1,9 @@
 # pc
-CPU: Intel 6600k (212 EVO Cooler) Overclocked 
+CPU: Intel 9700K (212 EVO Cooler)  
 GPU: PNY 1070 XLR8 Overclocked
-RAM: Corsair 16GB LPX 2133Mhz DDR4 Overclocked 
+RAM: Corsair 16GB LPX 2133Mhz DDR4 
 PSU: EVGA 650 GQ
-MOBO: MSI Z170M MORTAR 
+MOBO: MSI MPG Z390 GAMING PLUS
 SSD: OCZ Trion 150
 CD/DVD Drive: Lite-On iHAS124-14
 Bench Case: DIYPC Alpha-DB6
