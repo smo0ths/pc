@@ -1,5 +1,5 @@
 # pc
-CPU: Intel 9700K (212 EVO Cooler)  
+CPU: Intel 9700K (212 EVO Cooler) Overclocked 
 MOBO: MSI MPG Z390 GAMING PLUS
 GPU: PNY 1070 XLR8 Overclocked
 RAM: F4-3200C16D-16GVKB @ 3000Mhz CL14
