@@ -9,6 +9,6 @@ Bench Case: DIYPC Alpha-DB6
 Monitor: Benq XL2420TE 144hz
 Mouse/Feet/Pad: (Razor DeathAdder Chroma) (PureTrak PerfectGlide) (Xtrfy XGP1-L4)
 Keyboard: Razer Stealth 2014
-Headset: Grado Labs SR80e
+Headset: beyerdynamic DT 770 PRO 80 Ohm and Grado Labs SR80e
 Sound: Focusrite Scarlett 2i2
-Microphone: AT2020 (XLR) (NEEWER Microphone Suspension Boom Scissor Arm Stand)
+Microphone: AT2020 (XLR) (NEEWER Mic Boom Scissor Arm Stand)
