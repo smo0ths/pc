@@ -7,7 +7,7 @@ PSU: EVGA 650 GQ
 SSD/M.2/HDD: OCZ Trion 150 240GB / Samsung EVO Plus 500GB / Seagate 1TB
 Bench Case: DIYPC Alpha-DB6
 Monitor: Benq XL2420TE 144hz
-Mouse/Feet/Pad: (Razor DeathAdder Chroma) (PureTrak PerfectGlide) (Xtrfy XGP1-L4)
+Mouse/Feet/Pad: (Razer DeathAdder v2) (PureTrak PerfectGlide) (Xtrfy XGP1-L4)
 Keyboard: Razer Stealth 2014
 Headset: beyerdynamic DT 770 PRO 80 Ohm and Grado Labs SR80e
 Sound: Focusrite Scarlett 2i2
