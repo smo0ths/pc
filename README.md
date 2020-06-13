@@ -1,4 +1,4 @@
-~
+~~~~~~~~~~~~
 
 CPU: Intel 9700K (212 EVO Cooler) (4.7ghz/4.4ring/cache/1.28v)
 MOBO: MSI MPG Z390 GAMING PLUS
@@ -14,4 +14,4 @@ Headset: beyerdynamic DT 770 PRO 80 Ohm / Grado Labs SR80e
 Audio Card: EVGA NU Audio Pro
 Audio interface/Microphone/Stand: Focusrite Scarlett 2i2 1st gen / AT2020 XLR / NEEWER Boom
 
-~
+~~~~~~~~~~~~
