@@ -7,7 +7,7 @@ MOBO: MSI MPG Z390 GAMING PLUS
 GPU: Nvidia 2070 Super Founders Edition
 RAM: F4-3200C16D-16GVKB @ 3067Mhz (don't buy this, make sure you buy samsung die ram, DDR5 should be a thing soon)
 PSU: EVGA 650 GQ
-SSD/M.2/HDD: OCZ Trion 150 240GB / Samsung EVO Plus 500GB / Seagate 1TB
+M.2/SSD/HDD: Samsung EVO Plus 500GB / OCZ Trion 150 240GB / Seagate 1TB
 Case: Phanteks Eclipse P300A
 Monitor: Benq XL2420TE 144hz
 Mouse/Feet/Pad: Razer DeathAdder v2 / PTFE / Xtrfy XGP1-L4
