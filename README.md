@@ -13,7 +13,7 @@ M.2/SSD/HDD: Samsung EVO Plus 500GB / OCZ Trion 150 240GB / Seagate 1TB
 Case: Phanteks Eclipse P300A
 Monitor: Benq XL2420TE 144hz
 Mouse/Pad: Razer DeathAdder v2 / Xtrfy XGP1-L4
-Keyboard: Razer Stealth 2014
+Keyboard: Razer Huntsman TE Linear Optical Switches
 Audio interface/Microphone/Stand: Focusrite Scarlett 2i2 1st gen / AT2020 XLR / NEEWER Boom
 
 
