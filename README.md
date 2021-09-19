@@ -15,7 +15,7 @@ Monitor: MSI Optix MAG274QRF-QD (good panel but will have defects had to RMA onc
 Mouse/Pad: Razer DeathAdder v2 / Xtrfy XGP1-L4
 Keyboard: Razer Huntsman TE Linear Optical Switches
 Controller: Microsoft Xbox Wireless Controller + USB-C Cable (core)
-Audio interface/Microphone/Stand: Focusrite Scarlett 2i2 1st gen / AKG D5 / NEEWER Boom
+Audio interface/Microphone/Stand: Focusrite Scarlett 2i2 1st gen / AKG D5 / Mic stand from some local place
 Desk: Flexispot Standing Desk 48 x 30
 
 ~~~~~~~~~~~~
