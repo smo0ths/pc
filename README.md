@@ -7,7 +7,7 @@ Cooler: Noctua NH-D15S
 MOBO: MSI MPG Z390 GAMING PLUS
 RAM: Ripjaws V Series F4-3200C16D-16GVKB
 PSU: EVGA 650 GQ
-M.2/SSD/HDD/USB: Samsung EVO Plus 500GB/1TB
+M.2: Samsung EVO Plus 500GB and a 1TB
 Case: Phanteks Eclipse P300A
 Monitor: Benq XL2420TE 144hz / Don't buy MSI monitors they are a SCAM!!!** (btw)
 Mouse/Pad: Razer DeathAdder v2 / Xtrfy XGP1-L4
