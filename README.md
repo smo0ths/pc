@@ -1,6 +1,4 @@
-~~~~~~~~~~~~
-
-
+```python
 CPU: Intel 9700K
 GPU: Nvidia 2070 Super Founders Edition
 Audio Card: EVGA NU Audio Pro
@@ -17,5 +15,4 @@ Keyboard: Razer Huntsman TE Linear Optical Switches
 Controller: Xbox Core Controller
 Audio interface/Microphone: Focusrite Scarlett 2i2 1st gen / AKG D5
 Desk: Flexispot Standing Desk 48 x 30
-
-~~~~~~~~~~~~
+```
