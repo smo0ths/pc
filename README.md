@@ -2,7 +2,7 @@
 CPU: Intel 9700K OC
 GPU: Nvidia 2070 Super Founders Edition OC
 Audio Card: EVGA NU Audio Pro
-Headset: beyerdynamic DT 770 PRO 80 Ohm w/ BRAINWAVZ XL Perforated Earpads
+Headset: Beyerdynamic DT 770 PRO 80 Ohm w/ BRAINWAVZ XL Perforated Earpads
 Cooler: Noctua NH-D15S
 MOBO: MSI MPG Z390 GAMING PLUS
 RAM: Ripjaws V Series F4-3200C16D-16GVKB
